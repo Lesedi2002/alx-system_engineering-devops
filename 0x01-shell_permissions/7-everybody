@@ -1,0 +1,2 @@
+#!/bi/bash
+sudo chmod ugo+x hello
